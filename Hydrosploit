@@ -150,7 +150,7 @@ local themes = {
         ScrollBar = Color3.fromRGB(149, 149, 149),
         NotiBackground = Color3.fromRGB(0, 0, 0),
         Glow = Color3.fromRGB(255, 255, 255),
-        Logo = "rbxassetid://"
+        Logo = "rbxassetid://13010528021"
     }
     table.insert(CFAHub, title)
 
