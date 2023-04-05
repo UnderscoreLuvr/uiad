@@ -140,8 +140,8 @@ function CFAHub:CreateWindow(title, gameName, intro)
         end
     end
 local themes = {
-        SchemaColor = Color3.fromRGB(255, 0, 255),
-        TextColor = Color3.fromRGB(157, 0, 255),
+        SchemaColor = Color3.fromRGB(255, 255, 255),
+        TextColor = Color3.fromRGB(255, 255, 255),
         Header = Color3.fromRGB(22, 22, 22),
         Container = Color3.fromRGB(34, 34, 34),
         Background = Color3.fromRGB(22, 22, 22),
@@ -149,7 +149,7 @@ local themes = {
         Drop = Color3.fromRGB(28, 28, 28),
         ScrollBar = Color3.fromRGB(149, 149, 149),
         NotiBackground = Color3.fromRGB(0, 0, 0),
-        Glow = Color3.fromRGB(255, 0, 255),
+        Glow = Color3.fromRGB(255, 255, 255),
         Logo = "rbxassetid://"
     }
     table.insert(CFAHub, title)
